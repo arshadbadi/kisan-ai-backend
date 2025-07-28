@@ -1,0 +1,9 @@
+Healthy
+Early Blight
+Late Blight
+Leaf Mold
+Septoria Leaf Spot
+Bacterial Spot
+Yellow Leaf Curl
+Tomato Mosaic Virus
+...
